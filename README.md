@@ -14,7 +14,7 @@ At present, I plan to divide this repo into three parts, VC,RL,and DL. The detai
 
 ### Supervised learning
 
-- [ ] PLA
+- [ ] [PLA](http://www.baidu.com)
 
 ### Unsupervised learning
 
